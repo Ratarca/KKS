@@ -1,6 +1,6 @@
 # Kernels kaggle solution - KKS :duck:
 
-We'll put all links about machine learning case for kaggle and other projects.
+We'll put all machine learning cases for kaggle in this repository baby!
 
 CLASSIFICATION CASE |
 ------------ |
