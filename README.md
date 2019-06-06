@@ -1,12 +1,11 @@
-# Kernels kaggle solution - KKS :japanese_ogre:
+# Kernels kaggle solution - KKS :duck:
 
 We'll put all links about machine learning case for kaggle and other projects.
 
-## Summary 
-- [x] Iris: [LINK](https://github.com/Ratarca/IRIS-KKS)
+CLASSIFICATION CASE |
+------------ |
+[IRIS](https://github.com/Ratarca/IRIS-KKS) |
 
-* Titanic
-* House Price
-* Wheater
-* Credit Fraud
-* Home Credit
+REGRESSION CASE |
+------------ |
+HOUSE PRICE |
